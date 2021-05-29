@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>βlog✴</title>
+    <link>https://beelthazad.github.io/</link>
+    <description>Recent content on βlog✴</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Sat, 29 May 2021 16:58:30 +0200</lastBuildDate><atom:link href="https://beelthazad.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>✴ Uniquique Suum ✴</title>
+      <link>https://beelthazad.github.io/posts/siempre-de-aventuras/</link>
+      <pubDate>Sat, 29 May 2021 16:58:30 +0200</pubDate>
+      
+      <guid>https://beelthazad.github.io/posts/siempre-de-aventuras/</guid>
+      
+        <description>Aprendí de mi abuelo: su bondad y no enojarme con facilidad.</description>
+      
+    </item>
+    
+    <item>
+      <title>❂</title>
+      <link>https://beelthazad.github.io/about/</link>
+      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://beelthazad.github.io/about/</guid>
+      
+        <description>Actualmente trabajo como analista de seguridad y pierdo el tiempo estudiando Ingeniería Informática.</description>
+      
+    </item>
+    
+  </channel>
+</rss>
