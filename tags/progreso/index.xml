@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on βlog</title>
-    <link>https://beelthazad.github.io/posts/</link>
-    <description>Recent content in Posts on βlog</description>
+    <title>progreso on βlog</title>
+    <link>https://beelthazad.github.io/tags/progreso/</link>
+    <description>Recent content in progreso on βlog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
-    <lastBuildDate>Sun, 30 May 2021 16:58:30 +0200</lastBuildDate><atom:link href="https://beelthazad.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 30 May 2021 16:58:30 +0200</lastBuildDate><atom:link href="https://beelthazad.github.io/tags/progreso/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>[!] Del tecnoescepticismo y el progreso, la civilización y sus trampas.</title>
       <link>https://beelthazad.github.io/posts/preguntas-adecuadas/</link>
@@ -16,18 +16,6 @@
       
         <description>Extractos de un ensayo que escribí en 2020.
 El profesional de las TIC tiene desde el inicio de su formación un deber doble – con la propia disciplina y con la sociedad a la que pertenece.</description>
-      
-    </item>
-    
-    <item>
-      <title>✴ Uniquique Suum ✴</title>
-      <link>https://beelthazad.github.io/posts/siempre-de-aventuras/</link>
-      <pubDate>Sat, 29 May 2021 16:58:30 +0200</pubDate>
-      
-      <guid>https://beelthazad.github.io/posts/siempre-de-aventuras/</guid>
-      
-        <description>Bienvenido.
-Soy por quienes fueron y por ello, inauguro el blog rindiendo homenaje.</description>
       
     </item>
     
